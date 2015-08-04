@@ -1,0 +1,28 @@
+{
+  "name": "zfslistterminaltable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/zfsListTerminalTable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/zfsListTerminalTable/issues"
+  },
+  "homepage": "https://github.com/binRick/zfsListTerminalTable#readme",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "humanize-time": "0.0.2",
+    "moment": "^2.10.6",
+    "pretty-bytes": "^2.0.1",
+    "terminal-table": "0.0.12",
+    "trim": "0.0.1",
+    "underscore": "^1.8.3"
+  }
+}
